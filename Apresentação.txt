@@ -1,0 +1,5 @@
+Nome:Luís
+Idade: 16 Anos
+Trabalho: Não
+Conhecimento: O que aprendi no curso do Senai, um pouco de Python e JS. E em casa fiz mais coisas em HTML e CSS
+
