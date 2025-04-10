@@ -1,0 +1,1 @@
+select Nome_Completo, Salario from colaborador_tarde order by salario desc Limit 4,6;

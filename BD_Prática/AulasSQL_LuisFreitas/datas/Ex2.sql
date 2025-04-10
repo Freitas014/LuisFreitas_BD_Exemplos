@@ -1,0 +1,1 @@
+select Nome_Completo, Salario, Data_Admissao from colaborador_tarde where extract(year from Data_Admissao) = 1991;
