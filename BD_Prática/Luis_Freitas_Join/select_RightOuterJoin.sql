@@ -1,0 +1,1 @@
+select * from cliente1 right outer join profissao on cliente1.Cod_Profissao = profissao.Cod_Profissao;

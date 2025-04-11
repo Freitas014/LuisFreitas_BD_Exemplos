@@ -1,0 +1,1 @@
+select cliente1.Nome_Cliente, pedido.Num_Pedido from cliente1 inner join pedido on cliente1.Cod_Cliente = pedido.Cod_Cliente;
