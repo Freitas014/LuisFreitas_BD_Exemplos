@@ -1,0 +1,1 @@
+select cliente.nome, cliente.profissao from cliente where cliente.profissao in ('Professor', 'Engenheiro', 'Gestor');

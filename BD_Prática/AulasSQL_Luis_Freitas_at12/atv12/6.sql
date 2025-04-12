@@ -1,0 +1,1 @@
+select distinct produto.Descricao, produto.Valor from produto join item on item.CodProd = produto.CodProd where produto.Valor > '10.00';

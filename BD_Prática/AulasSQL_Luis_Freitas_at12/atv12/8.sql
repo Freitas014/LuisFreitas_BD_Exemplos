@@ -1,0 +1,1 @@
+select cliente.Nome, Cliente.Cidade from cliente order by cliente.cidade asc;
