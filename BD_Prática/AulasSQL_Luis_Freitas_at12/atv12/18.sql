@@ -1,0 +1,1 @@
+select produto.lote from produto;
