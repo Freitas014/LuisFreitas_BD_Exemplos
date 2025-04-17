@@ -1,0 +1,1 @@
+select uniProduto from produto;

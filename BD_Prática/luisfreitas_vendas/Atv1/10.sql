@@ -1,0 +1,1 @@
+select NumPedido, PrazoEntrega from pedido where PrazoEntrega not like 15;

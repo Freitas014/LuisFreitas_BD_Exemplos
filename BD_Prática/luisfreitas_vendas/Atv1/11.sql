@@ -1,0 +1,1 @@
+select CodProduto, descProduto from produto where valorUnitario between 0.32 and 2.00;

@@ -1,0 +1,1 @@
+select NomeVendedor, SalarioFixo*2 as 'Novo Salário' from vendedor;

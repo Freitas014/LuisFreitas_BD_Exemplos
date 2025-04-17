@@ -1,0 +1,1 @@
+select descProduto, UniProduto, valorUnitario from produto where uniProduto = 'M' and valorUnitario = 1.05;

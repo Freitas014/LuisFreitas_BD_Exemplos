@@ -1,0 +1,1 @@
+select NomeCliente, Cidade from cliente where cidade like 'Niterói';

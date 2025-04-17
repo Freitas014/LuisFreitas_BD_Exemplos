@@ -1,0 +1,1 @@
+select CodVendedor as 'Codigo do Vendedor', NomeVendedor as 'Nome do Vendedor', SalarioFixo as 'Salario Inicial', FaixaComissao as 'Comissao' from vendedor;

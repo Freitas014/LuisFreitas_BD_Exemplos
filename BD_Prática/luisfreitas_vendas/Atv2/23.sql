@@ -1,0 +1,1 @@
+select avg(SalarioFixo) as 'Média de Salário dos Vendedores' from vendedor;

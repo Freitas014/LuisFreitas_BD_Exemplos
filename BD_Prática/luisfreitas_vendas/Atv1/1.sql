@@ -1,0 +1,1 @@
+select descProduto, UniProduto, valorUnitario from produto

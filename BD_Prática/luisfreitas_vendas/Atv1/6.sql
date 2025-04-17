@@ -1,0 +1,1 @@
+select NumPedido, CodProduto, QtdeProduto from item_pedido where QtdeProduto = 35;

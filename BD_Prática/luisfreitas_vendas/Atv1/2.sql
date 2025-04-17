@@ -1,0 +1,1 @@
+select CNPJ, NomeCLiente, Endereco from cliente

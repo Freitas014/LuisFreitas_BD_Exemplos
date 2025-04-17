@@ -1,0 +1,1 @@
+select min(SalarioFixo) as 'Menor Salário', max(SalarioFixo) as 'Maior Salário' from vendedor;

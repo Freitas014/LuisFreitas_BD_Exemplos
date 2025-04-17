@@ -1,0 +1,1 @@
+select NomeCliente, Endereco, Cidade, CEP from cliente where endereco = 'São Paulo' or  CEP between '30077000' and '30079000';

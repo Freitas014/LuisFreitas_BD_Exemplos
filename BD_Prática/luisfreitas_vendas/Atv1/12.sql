@@ -1,0 +1,1 @@
+select descProduto from produto where descProduto like 'Q%';
